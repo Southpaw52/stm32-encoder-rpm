@@ -1,5 +1,7 @@
 # Incremental Encoder — Pulse Sayma, Yön ve RPM Hesaplama
 
+[![CI](https://github.com/Southpaw52/stm32-encoder-rpm/actions/workflows/ci.yml/badge.svg)](https://github.com/Southpaw52/stm32-encoder-rpm/actions/workflows/ci.yml)
+
 STM32F407VG (STM32F4DISCOVERY) üzerinde A/B kanallı artımlı (incremental) encoder sinyallerini
 donanımsal **Encoder Interface Mode** ile sayan, her **1 saniyede** bir donanım timer'ı ile hız ve
 yönü güncelleyen ve sonuçları **UART** üzerinden gönderen STM32 HAL tabanlı firmware.
