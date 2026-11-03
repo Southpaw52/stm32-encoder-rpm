@@ -1,0 +1,14 @@
+build/
+Debug/
+Release/
+.git/
+.embedded-agent/
+.vscode/
+.settings/
+__pycache__/
+*.elf
+*.o
+*.obj
+*.map
+*.log
+*.launch
